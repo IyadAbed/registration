@@ -1,0 +1,15 @@
+body {
+  background-color: aqua;
+}
+
+.container {
+display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.container input,label {
+  margin: 4px;
+  padding: 4px;
+}
